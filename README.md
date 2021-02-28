@@ -3,7 +3,7 @@
   <br>
   <a href="https://nova.larkx.xyz/"><img src="https://media.discordapp.net/attachments/741659143273709588/815692598496329778/astra.png" alt="nova.larkx.xyz" width="200"></a>
   <br>
-  larkx.xyz
+  nova.larkx.xyz
   <br>
 </h1>
 
