@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/larkify/">
-    <img src="https://img.shields.io/badge/version-3.0-blue?style=for-the-badge"
+    <img src="https://img.shields.io/badge/version-2.0-blue?style=for-the-badge"
          alt="Version">
   </a>
   <a href="https://github.com/larkify/nova-website/">
